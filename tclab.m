@@ -42,6 +42,7 @@ classdef tclab
              disp('  Open terminal and type: ls /dev/tty*')
              disp('  Search for /dev/ttyUSB* or /dev/ttyACM*. The port number is *.')
              disp('')
+             lab = [];
          end
          obj.device = 'TCLab';
          obj.board = board;
