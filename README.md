@@ -1,6 +1,6 @@
 ### Begin MATLAB with the TCLab
 
-Welcome to this introductory course on MATLAB and Simulink! This course is intended to help you start programming in MATLAB from little or no prior experience. There are video tutorials for each exercise if you have questions along the way. One of the unique things about this course is that you work on basic elements to help you with a temperature control project. You will see your MATLAB code have a real effect by adjusting heaters to maintain a target temperature, just like a thermostat in a home or office.
+Welcome to this introductory course on MATLAB! This course is intended to help you start programming in MATLAB from little or no prior experience. There are video tutorials for each exercise if you have questions along the way. One of the unique things about this course is that you work on basic elements to help you with a temperature control project. You will see your MATLAB code have a real effect by adjusting heaters to maintain a target temperature, just like a thermostat in a home or office.
 
 [![Begin MATLAB](https://apmonitor.com/che263/uploads/Begin_Matlab/BeginMatlab00.png)](https://www.youtube.com/watch?v=EO_YpBs8cs0 "Begin MATLAB")
 
