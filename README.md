@@ -12,10 +12,11 @@ To make the problem more concrete, suppose that you are designing a chicken egg 
 
 **Topics**
 
-There are 12 lessons to help you with the objective of designing the temperature control for the incubator. The first thing that you will need is to [install Anaconda](https://github.com/APMonitor/begin_matlab/blob/master/octave/00.%20Introduction.ipynb) to open and run the Jupyter notebook files. Any MATLAB-like distribution or Integrated Development Environment (IDE) can be used (MATLAB or GNU Octave) but Jupyter notebook is required to open and run the notebook (`.ipynb`) files. All of the IPython notebook (`.ipynb`) files can be [downloaded at this link](https://github.com/APMonitor/begin_matlab/archive/master.zip). Don't forget to unzip the folder (extract the archive) and copy it to a convenient location before starting.
+There are 12 lessons to help you with the objective of designing the temperature control for the incubator. The first thing that you will need is to [install the required software](https://github.com/APMonitor/begin_matlab/blob/master/octave/00.%20Introduction.ipynb) to open and run the Jupyter notebook files. Any MATLAB-like distribution or Integrated Development Environment (IDE) can be used (MATLAB or GNU Octave) but Jupyter notebook is required to open and run the notebook (`.ipynb`) files. All of the IPython notebook (`.ipynb`) files can be [downloaded at this link](https://github.com/APMonitor/begin_matlab/archive/master.zip). Don't forget to unzip the folder (extract the archive) and copy it to a convenient location before starting.
 
 |**Learning Module**|**Matlab**|**Octave** |
 |--|--|--|
+| 1  | [Introduction](https://github.com/APMonitor/begin_matlab/blob/master/matlab/00.%20Introduction.ipynb) | [Overview](https://github.com/APMonitor/begin_matlab/blob/master/octave/00.%20Introduction.ipynb) |
 | 1  | [Overview](https://github.com/APMonitor/begin_matlab/blob/master/matlab/01.%20Overview.ipynb) | [Overview](https://github.com/APMonitor/begin_matlab/blob/master/octave/01.%20Overview.ipynb) |
 | 2  | [Debugging](https://github.com/APMonitor/begin_matlab/blob/master/matlab/02.%20Debugging.ipynb) | [Debugging](https://github.com/APMonitor/begin_matlab/blob/master/octave/02.%20Debugging.ipynb) |
 | 3  | [Variables](https://github.com/APMonitor/begin_matlab/blob/master/matlab/03.%20Variables.ipynb) | [Variables](https://github.com/APMonitor/begin_matlab/blob/master/octave/03.%20Variables.ipynb) |
