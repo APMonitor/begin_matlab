@@ -55,6 +55,9 @@ We would love to hear any feedback or problems you would like to send us! We are
 
 **Additional Resources**
 
+- [Begin Matlab with the TCLab](https://apmonitor.github.io/begin_matlab)
+- [Begin Java with the TCLab](https://apmonitor.github.io/begin_java)
+- [Begin Python with the TCLab](https://apmonitor.github.io/begin_python)
 - [Temperature Control Lab (TCLab) Kit](https://apmonitor.com/pdc/index.php/Main/ArduinoTemperatureControl)
-- [Engineering Programming Course](https://apmonitor.com/pdc) with [Source Code](https://github.com/APMonitor/learn_python)
+- [Engineering Programming Course](https://apmonitor.com/che263)
 - [Jupyter as interactive environment for Python, Octave, Julia, R](https://jupyter.org/)
