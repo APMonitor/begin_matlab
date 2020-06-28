@@ -6,7 +6,7 @@ Welcome to this introductory course on MATLAB! This course is intended to help y
 
 One of the best ways to start or review a programming language is to work on a simple project. These exercises are designed to teach basic MATLAB programming skills to help you design a temperature controller. Temperature control is found in many applications such as home or office HVAC, manufacturing processes, transportation, and life sciences. Even our bodies regulate temperature to a specific set point. This project is to regulate the temperature of the TCLab. Each TCLab has thermochromic (changes color with temperature) paint that turns from black to purple when the temperature reaches the target temperature of 37°C (99°F).
 
-**[Final Project](https://github.com/APMonitor/begin_matlab/blob/master/XX.%20Final%20Project.ipynb) Objective**: Program the TCLab to maintain the temperature at 37°C. Display the heater level with an LED indicator as the program is adjusting the temperature. Create a plot of the temperature and heater values over a 10 minute evaluation period.
+**[Final Project](https://github.com/APMonitor/begin_matlab/blob/master/octave/XX.%20Final%20Project.ipynb) Objective**: Program the TCLab to maintain the temperature at 37°C. Display the heater level with an LED indicator as the program is adjusting the temperature. Create a plot of the temperature and heater values over a 10 minute evaluation period.
 
 To make the problem more concrete, suppose that you are designing a chicken egg incubator. Temperature, humidity, and egg rotation are all important to help the chicks develop. For this exercise, you will only focus on temperature control by adjusting the heater.
 
@@ -14,18 +14,20 @@ To make the problem more concrete, suppose that you are designing a chicken egg 
 
 There are 12 lessons to help you with the objective of designing the temperature control for the incubator. The first thing that you will need is to [install Anaconda](https://github.com/APMonitor/begin_matlab/blob/master/00.%20Introduction.ipynb) to open and run the Jupyter notebook files. Any MATLAB-like distribution or Integrated Development Environment (IDE) can be used (MATLAB or GNU Octave) but Jupyter notebook is required to open and run the notebook (`.ipynb`) files. All of the IPython notebook (`.ipynb`) files can be [downloaded at this link](https://github.com/APMonitor/begin_matlab/archive/master.zip). Don't forget to unzip the folder (extract the archive) and copy it to a convenient location before starting.
 
-1. [Overview](https://github.com/APMonitor/begin_matlab/blob/master/01.%20Overview.ipynb)
-2. [Debugging](https://github.com/APMonitor/begin_matlab/blob/master/02.%20Debugging.ipynb)
-3. [Variables](https://github.com/APMonitor/begin_matlab/blob/master/03.%20Variables.ipynb)
-4. [Printing](https://github.com/APMonitor/begin_matlab/blob/master/04.%20Printing.ipynb)
-5. [Arduino](https://github.com/APMonitor/begin_matlab/blob/master/05.%20Arduino.ipynb)
-6. [Functions](https://github.com/APMonitor/begin_matlab/blob/master/06.%20Functions.ipynb)
-7. [Loops](https://github.com/APMonitor/begin_matlab/blob/master/07.%20Loops.ipynb)
-8. [Input](https://github.com/APMonitor/begin_matlab/blob/master/08.%20Input.ipynb)
-9. [If Statements](https://github.com/APMonitor/begin_matlab/blob/master/09.%20If%20Statements.ipynb)
-10. [Arrays](https://github.com/APMonitor/begin_matlab/blob/master/10.%20Lists%20and%20Tuples.ipynb)
-11. [Cell Arrays](https://github.com/APMonitor/begin_matlab/blob/master/11.%20Cell%20Arrays.ipynb)
-12. [Plotting](https://github.com/APMonitor/begin_matlab/blob/master/12.%20Plotting.ipynb)
+|**Learning Module**|**Matlab**|**Octave** |
+|--|--|--|
+| 1  | [Overview](https://github.com/APMonitor/begin_matlab/blob/master/matlab/01.%20Overview.ipynb) | [Overview](https://github.com/APMonitor/begin_matlab/blob/master/octave/01.%20Overview.ipynb) |
+| 2  | [Debugging](https://github.com/APMonitor/begin_matlab/blob/master/matlab/02.%20Debugging.ipynb) | [Debugging](https://github.com/APMonitor/begin_matlab/blob/master/octave/02.%20Debugging.ipynb) |
+| 3  | [Variables](https://github.com/APMonitor/begin_matlab/blob/master/matlab/03.%20Variables.ipynb) | [Variables](https://github.com/APMonitor/begin_matlab/blob/master/octave/03.%20Variables.ipynb) |
+| 4  | [Printing](https://github.com/APMonitor/begin_matlab/blob/master/matlab/04.%20Printing.ipynb) | [Printing](https://github.com/APMonitor/begin_matlab/blob/master/octave/04.%20Printing.ipynb) |
+| 5  | [Arduino](https://github.com/APMonitor/begin_matlab/blob/master/matlab/05.%20Arduino.ipynb) | [Arduino](https://github.com/APMonitor/begin_matlab/blob/master/octave/05.%20Arduino.ipynb) |
+| 6  | [Functions](https://github.com/APMonitor/begin_matlab/blob/master/matlab/06.%20Functions.ipynb) | [Functions](https://github.com/APMonitor/begin_matlab/blob/master/octave/06.%20Functions.ipynb) |
+| 7  | [Loops](https://github.com/APMonitor/begin_matlab/blob/master/matlab/07.%20Loops.ipynb) | [Loops](https://github.com/APMonitor/begin_matlab/blob/master/octave/07.%20Loops.ipynb) |
+| 8  | [Input](https://github.com/APMonitor/begin_matlab/blob/master/matlab/08.%20Input.ipynb) | [Input](https://github.com/APMonitor/begin_matlab/blob/master/octave/08.%20Input.ipynb) |
+| 9  | [If Statements](https://github.com/APMonitor/begin_matlab/blob/master/matlab/09.%20If%20Statements.ipynb) | [If Statements](https://github.com/APMonitor/begin_matlab/blob/master/octave/09.%20If%20Statements.ipynb) |
+| 10 | [Arrays](https://github.com/APMonitor/begin_matlab/blob/master/matlab/10.%20Lists%20and%20Tuples.ipynb) | [Arrays](https://github.com/APMonitor/begin_matlab/blob/master/octave/10.%20Lists%20and%20Tuples.ipynb) |
+| 11 | [Cell Arrays](https://github.com/APMonitor/begin_matlab/blob/master/matlab/11.%20Cell%20Arrays.ipynb) | [Cell Arrays](https://github.com/APMonitor/begin_matlab/blob/master/octave/11.%20Cell%20Arrays.ipynb) |
+| 12 | [Plotting](https://github.com/APMonitor/begin_matlab/blob/master/matlab/12.%20Plotting.ipynb) | [Plotting](https://github.com/APMonitor/begin_matlab/blob/master/octave/12.%20Plotting.ipynb) |
 
 **Get TCLab**
 
