@@ -12,7 +12,7 @@ To make the problem more concrete, suppose that you are designing a chicken egg 
 
 **Topics**
 
-There are 12 lessons to help you with the objective of designing the temperature control for the incubator. The first thing that you will need is to [install Anaconda](https://github.com/APMonitor/begin_matlab/blob/master/00.%20Introduction.ipynb) to open and run the Jupyter notebook files. Any MATLAB-like distribution or Integrated Development Environment (IDE) can be used (MATLAB or GNU Octave) but Jupyter notebook is required to open and run the notebook (`.ipynb`) files. All of the IPython notebook (`.ipynb`) files can be [downloaded at this link](https://github.com/APMonitor/begin_matlab/archive/master.zip). Don't forget to unzip the folder (extract the archive) and copy it to a convenient location before starting.
+There are 12 lessons to help you with the objective of designing the temperature control for the incubator. The first thing that you will need is to [install Anaconda](https://github.com/APMonitor/begin_matlab/blob/master/octave/00.%20Introduction.ipynb) to open and run the Jupyter notebook files. Any MATLAB-like distribution or Integrated Development Environment (IDE) can be used (MATLAB or GNU Octave) but Jupyter notebook is required to open and run the notebook (`.ipynb`) files. All of the IPython notebook (`.ipynb`) files can be [downloaded at this link](https://github.com/APMonitor/begin_matlab/archive/master.zip). Don't forget to unzip the folder (extract the archive) and copy it to a convenient location before starting.
 
 |**Learning Module**|**Matlab**|**Octave** |
 |--|--|--|
@@ -37,13 +37,16 @@ You will need a [TCLab kit](https://apmonitor.com/heat.htm) to complete the exer
 
 **Install Jupyter Notebook**
 
-[Download and install Anaconda to use Jupyter](https://docs.anaconda.com/anaconda/install/) or [watch a video on how to install Anaconda](https://youtu.be/LrMOrMb8-3s).
-
-https://pypi.org/project/octave-kernel
+[Download and install Anaconda to use Jupyter](https://www.anaconda.com/products/individual) or [watch a video on how to install Anaconda](https://youtu.be/LrMOrMb8-3s).
 
 [![Install Anaconda](https://img.youtube.com/vi/LrMOrMb8-3s/0.jpg)](https://www.youtube.com/watch?v=LrMOrMb8-3s "Install Anaconda")
 
-There are additional instructions on how to [install MATLAB / Octave](https://apmonitor.com/pdc/index.php/Main/InstallMatlab).
+There are additional instructions on how to [install MATLAB](https://apmonitor.com/pdc/index.php/Main/InstallMatlab) or [install Octave](https://www.gnu.org/software/octave/download.html). You will also need the [Matlab kernel](https://pypi.org/project/matlab-kernel) or [Octave kernel](https://pypi.org/project/matlab-kernel) for Jupyter. You can install the kernels with:
+
+```python
+pip install octave-kernel
+pip install matlab-kernel
+```
 
 **Support**
 
