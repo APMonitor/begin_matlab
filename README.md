@@ -16,7 +16,7 @@ There are 12 lessons to help you with the objective of designing the temperature
 
 |**Learning Module**|**Matlab**|**Octave** |
 |--|--|--|
-| 1  | [Introduction](https://github.com/APMonitor/begin_matlab/blob/master/matlab/00.%20Introduction.ipynb) | [Overview](https://github.com/APMonitor/begin_matlab/blob/master/octave/00.%20Introduction.ipynb) |
+| Intro  | [Introduction](https://github.com/APMonitor/begin_matlab/blob/master/matlab/00.%20Introduction.ipynb) | [Introduction](https://github.com/APMonitor/begin_matlab/blob/master/octave/00.%20Introduction.ipynb) |
 | 1  | [Overview](https://github.com/APMonitor/begin_matlab/blob/master/matlab/01.%20Overview.ipynb) | [Overview](https://github.com/APMonitor/begin_matlab/blob/master/octave/01.%20Overview.ipynb) |
 | 2  | [Debugging](https://github.com/APMonitor/begin_matlab/blob/master/matlab/02.%20Debugging.ipynb) | [Debugging](https://github.com/APMonitor/begin_matlab/blob/master/octave/02.%20Debugging.ipynb) |
 | 3  | [Variables](https://github.com/APMonitor/begin_matlab/blob/master/matlab/03.%20Variables.ipynb) | [Variables](https://github.com/APMonitor/begin_matlab/blob/master/octave/03.%20Variables.ipynb) |
