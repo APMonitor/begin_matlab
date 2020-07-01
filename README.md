@@ -2,7 +2,7 @@
 
 Welcome to this introductory course on MATLAB! This course is intended to help you start programming in MATLAB from little or no prior experience. There are video tutorials for each exercise if you have questions along the way. One of the unique things about this course is that you work on basic elements to help you with a temperature control project. You will see your MATLAB code have a real effect by adjusting heaters to maintain a target temperature, just like a thermostat in a home or office.
 
-[![Begin MATLAB](https://apmonitor.com/che263/uploads/Begin_Matlab/BeginMatlab00.png)](https://www.youtube.com/watch?v=EO_YpBs8cs0 "Begin MATLAB")
+[![Begin MATLAB](https://apmonitor.com/che263/uploads/Begin_Matlab/BeginMatlab00.png)](https://www.youtube.com/watch?v=V8ik7X6I1Sk "Begin MATLAB")
 
 One of the best ways to start or review a programming language is to work on a simple project. These exercises are designed to teach basic MATLAB programming skills to help you design a temperature controller. Temperature control is found in many applications such as home or office HVAC, manufacturing processes, transportation, and life sciences. Even our bodies regulate temperature to a specific set point. This project is to regulate the temperature of the TCLab. Each TCLab has thermochromic (changes color with temperature) paint that turns from black to purple when the temperature reaches the target temperature of 37°C (99°F).
 
@@ -36,11 +36,9 @@ You will need a [TCLab kit](https://apmonitor.com/heat.htm) to complete the exer
 
 ![Temperature Control Lab](https://apmonitor.com/pdc/uploads/Main/tclab_connect.png "TCLab")
 
-**Install Jupyter Notebook**
+**Install Jupyter Notebook with Matlab or Octave Kernels**
 
-[Download and install Anaconda to use Jupyter](https://www.anaconda.com/products/individual) or [watch a video on how to install Anaconda](https://youtu.be/LrMOrMb8-3s).
-
-[![Install Anaconda](https://img.youtube.com/vi/LrMOrMb8-3s/0.jpg)](https://www.youtube.com/watch?v=LrMOrMb8-3s "Install Anaconda")
+[![Install Jupyter Notebook and Jupyter Lab](https://img.youtube.com/vi/WufMGW5Bv4g/0.jpg)](https://www.youtube.com/watch?v=WufMGW5Bv4g "Install Requirements")
 
 There are additional instructions on how to [install MATLAB](https://apmonitor.com/pdc/index.php/Main/InstallMatlab) or [install Octave](https://www.gnu.org/software/octave/download.html). You will also need the [Matlab kernel](https://pypi.org/project/matlab-kernel) or [Octave kernel](https://pypi.org/project/matlab-kernel) for Jupyter. You can install the kernels with:
 
