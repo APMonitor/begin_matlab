@@ -26,7 +26,7 @@ There are 12 lessons to help you with the objective of designing the temperature
 | 7  | [Loops](https://github.com/APMonitor/begin_matlab/blob/master/matlab/07.%20Loops.ipynb) | [Loops](https://github.com/APMonitor/begin_matlab/blob/master/octave/07.%20Loops.ipynb) |
 | 8  | [Input](https://github.com/APMonitor/begin_matlab/blob/master/matlab/08.%20Input.ipynb) | [Input](https://github.com/APMonitor/begin_matlab/blob/master/octave/08.%20Input.ipynb) |
 | 9  | [If Statements](https://github.com/APMonitor/begin_matlab/blob/master/matlab/09.%20If%20Statements.ipynb) | [If Statements](https://github.com/APMonitor/begin_matlab/blob/master/octave/09.%20If%20Statements.ipynb) |
-| 10 | [Arrays](https://github.com/APMonitor/begin_matlab/blob/master/matlab/10.%20Lists%20and%20Tuples.ipynb) | [Arrays](https://github.com/APMonitor/begin_matlab/blob/master/octave/10.%20Lists%20and%20Tuples.ipynb) |
+| 10 | [Arrays](https://github.com/APMonitor/begin_matlab/blob/master/matlab/10.%20Lists%20and%20Tuples.ipynb) | [Arrays](https://github.com/APMonitor/begin_matlab/blob/master/octave/10.%20Arrays.ipynb) |
 | 11 | [Cell Arrays](https://github.com/APMonitor/begin_matlab/blob/master/matlab/11.%20Cell%20Arrays.ipynb) | [Cell Arrays](https://github.com/APMonitor/begin_matlab/blob/master/octave/11.%20Cell%20Arrays.ipynb) |
 | 12 | [Plotting](https://github.com/APMonitor/begin_matlab/blob/master/matlab/12.%20Plotting.ipynb) | [Plotting](https://github.com/APMonitor/begin_matlab/blob/master/octave/12.%20Plotting.ipynb) |
 
