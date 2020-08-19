@@ -12,7 +12,15 @@ To make the problem more concrete, suppose that you are designing a chicken egg 
 
 **Topics**
 
-There are 12 lessons to help you with the objective of designing the temperature control for the incubator. The first thing that you will need is to [install the required software](https://github.com/APMonitor/begin_matlab/blob/master/octave/00.%20Introduction.ipynb) to open and run the Jupyter notebook files. Any MATLAB-like distribution or Integrated Development Environment (IDE) can be used (MATLAB or GNU Octave) but Jupyter notebook is required to open and run the notebook (`.ipynb`) files. All of the IPython notebook (`.ipynb`) files can be [downloaded at this link](https://github.com/APMonitor/begin_matlab/archive/master.zip). Don't forget to unzip the folder (extract the archive) and copy it to a convenient location before starting.
+There are 12 lessons to help you with the objective of designing the temperature control for the incubator. The 12 lessons can be completed with Jupyter notebooks or with Matlab Live Scripts.
+
+*Jupyter Notebook with Matlab or Octave*
+
+The first thing that you will need is to [install the required software](https://github.com/APMonitor/begin_matlab/blob/master/octave/00.%20Introduction.ipynb) to open and run the Jupyter notebook files. Any MATLAB-like distribution or Integrated Development Environment (IDE) can be used (MATLAB or GNU Octave) but the Jupyter notebooks (`.ipynb`) must be run with an editor such as Jupyter lab, Jupyter notebook, or VS Code. The IPython notebook (`.ipynb`) files can be [downloaded at this link](https://github.com/APMonitor/begin_matlab/archive/master.zip). Don't forget to unzip the folder (extract the archive) and copy it to a convenient location before starting.
+
+*Matlab Live Scripts*
+
+An option only for Matlab users is the [live_scripts](https://github.com/APMonitor/begin_matlab/blob/master/live_scripts/) that have the same content as the Jupyter notebooks but run natively in Matlab starting with version 2018. This new feature of Matlab is like the Jupyter notebook in providing rich content with cells that run the Matlab code. Jupyter notebooks are recommended for those who have an older version of Matlab.
 
 |**Learning Module**|**Matlab**|**Octave** |
 |--|--|--|
