@@ -20,7 +20,7 @@ The first thing that you will need is to [install the required software](https:/
 
 *Matlab Live Scripts*
 
-An option only for Matlab users is the [live_scripts](https://github.com/APMonitor/begin_matlab/blob/master/live_scripts/) that have the same content as the Jupyter notebooks but run natively in Matlab starting with version 2018. This new feature of Matlab is like the Jupyter notebook in providing rich content with cells that run the Matlab code. Jupyter notebooks are recommended for those who have an older version of Matlab.
+Matlab users can access the [live_scripts](https://github.com/APMonitor/begin_matlab/blob/master/live_scripts/) that have the same content as the Jupyter notebooks but run natively in Matlab starting with version 2018. This new feature of Matlab is like the Jupyter notebook in providing rich content with cells that run the Matlab code. Jupyter notebooks are recommended for those who have an older version of Matlab.
 
 |**Learning Module**|**Matlab**|**Octave** |
 |--|--|--|
