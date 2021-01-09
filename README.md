@@ -12,7 +12,7 @@ To make the problem more concrete, suppose that you are designing a chicken egg 
 
 **Topics**
 
-There are 12 lessons to help you with the objective of designing the temperature control for the incubator. The 12 lessons can be completed with Jupyter notebooks or with Matlab Live Scripts.
+There are 12 lessons to help you with the objective of designing the temperature control for the incubator. The 12 lessons can be completed with Jupyter notebooks or with Matlab Live Scripts. There is a [MATLAB YouTube playlist](https://www.youtube.com/watch?v=V8ik7X6I1Sk&list=PLLBUgWXdTBDhJJnJW2q2G7e84MZM6dxRN) to provide help with each lesson.
 
 <img src="https://apmonitor.com/che263/uploads/Main/begin_matlab.png" width=600px/>
 
